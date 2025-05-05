@@ -6,3 +6,4 @@ closing the connection
 
 show dashboard
 
+enable non active user
