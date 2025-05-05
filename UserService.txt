@@ -9,4 +9,4 @@ Login notification
 
 logout notification with email
 
-enable whatsapp feature
+enable whatsapp feature via FB
