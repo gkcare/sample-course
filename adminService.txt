@@ -1,1 +1,5 @@
 service for user management
+change the rolse
+add user
+manager the database
+closing the connection
