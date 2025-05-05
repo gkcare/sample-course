@@ -3,3 +3,6 @@ change the rolse
 add user
 manager the database
 closing the connection
+
+show dashboard
+
