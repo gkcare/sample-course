@@ -5,7 +5,7 @@ create a avator and play with this onegit
 
 login and logout
 
-Login notification
+Login notification via whatsapp
 
 logout notification with email
 
